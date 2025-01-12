@@ -9,3 +9,6 @@ This is a simple single-page CV (Curriculum Vitae) created using HTML.
 ## Links
 - [LinkedIn](https://linkedin.com/in/adinataekwan)
 - [GitHub](https://github.com/starck27)
+
+## Roadmap Project Link
+https://roadmap.sh/projects/single-page-cv
